@@ -27,7 +27,7 @@ include("../view/template/header.php");
 ?>
     <main>
     <div class="container">
-        <h5 class="text-center text-primary mt-5">Sửa</h5>
+        <h5 class="text-center text-primary mt-5">Sửa Nhân Viên</h5>
         <div>
         <form action="../model/process-update.php" method="POST">
             <div class="form-group">
